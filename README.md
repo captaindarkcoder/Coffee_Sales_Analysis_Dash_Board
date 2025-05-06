@@ -1,4 +1,4 @@
-#Coffee Bean – Data Analysis (Interactive Dashboard using MS Excel)
+# Coffee Bean – Data Analysis (Interactive Dashboard using MS Excel)
 
 ## Project Objective
 The Coffee Bean owner wants to know the sales report from 2019 to 2022 in terms of roast type, size, and the loyalty card holder customers. This will further prepare the store for the future customers.
@@ -24,10 +24,10 @@ The Coffee Bean owner wants to know the sales report from 2019 to 2022 in terms 
 -	Generate a pivot table that answers the questions above.
 -	Merge all the pivot tables in one dashboard and applying slicer and filter to make it more dynamic and more user friendly.
 
-##Dashboard
+## Dashboard
 ![Coffee Shop Analysis](https://github.com/user-attachments/assets/8f6fba13-9d1c-4284-9d9a-361bc6cbb5c1)
 
-##Project Insights
+## Project Insights
 -	United States is the top consumer by country followed by Ireland and United Kingdom.
 -	46% of the total sales in the year 2019-2022 are from loyalty card owner customers while the 54% are from non-loyalty owner holder.
 -	The sales by coffee type in descending order is as follows: Excelsa, Liberica, Arabica, and Robusta
